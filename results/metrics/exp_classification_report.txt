@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+       Entry       0.00      0.00      0.00         5
+         Mid       0.00      0.00      0.00        45
+      Senior       0.90      1.00      0.95       447
+
+    accuracy                           0.90       497
+   macro avg       0.30      0.33      0.32       497
+weighted avg       0.81      0.90      0.85       497
